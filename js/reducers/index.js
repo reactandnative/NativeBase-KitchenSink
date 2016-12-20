@@ -2,11 +2,11 @@
 import { combineReducers } from 'redux';
 
 import drawer from './drawer';
-import route from './route';
+import cardNavigation from './cardNavigation';
 
 export default combineReducers({
 
   drawer,
-  route,
+  cardNavigation,
 
 });

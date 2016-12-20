@@ -1,13 +1,14 @@
-# NativeBase-KitchenSink v0.5.11
+# NativeBase-KitchenSink v0.5.18
 An example app with all the UI components of NativeBase
 
-[![play-store](https://strapmobile.com/wp-content/uploads/2016/02/google-play-200.png)](https://play.google.com/store/apps/details?id=com.nativebasekitchensink&hl=en)
+[![play-store](https://strapmobile.com/wp-content/uploads/2016/02/google-play-200.png)](https://play.google.com/store/apps/details?id=com.nativebasekitchensink&hl=en) [![app-store](https://strapmobile.com/wp-content/uploads/2016/02/app-store-200.png)](https://itunes.apple.com/us/app/nativebase-kitchensink/id1162013771?mt=8)
 
 ## Demo
 
 iOS | Android
  :--:| :-----:
  ![ios-demo](/Screenshots/iOS/demo.gif) | ![android-demo](/Screenshots/android/demo.gif)
+
 
 [NativeBase](http://nativebase.io/) is a free and open source framework that enables developers to build high-quality mobile apps using [React Native](https://facebook.github.io/react-native/) iOS and Android apps with a fusion of ES6. NativeBase builds a layer on top of React Native that provides you with basic set of components for mobile application development. This helps you to build world-class application experiences on native platforms.
 
